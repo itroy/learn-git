@@ -21,3 +21,7 @@ For example,
     git commit -m "message" is read as git | commit -m | "message"; and
     git status is read as git | status | (no destination).
 
+## Git Best Practices
+
+    - Atomic commits - make commits related to one feature or task of your program.
+    - Leverage atomic commits to make your commit messages useful to future collaborators.
