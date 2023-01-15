@@ -28,6 +28,10 @@ For example,
 
 ## Good Commit Messages
 
-    - Use an active voice: “Fix card generator”
-    - Avoid using vague commit messages such as “saved” or “updated”
-    - Commit early and often!
+    1. Separate subject from body with a blank line
+    2. Limit the subject line to 50 characters
+    3. Capitalize the subject line
+    4. Do not end the subject line with a period
+    5. Use the imperative mood in the subject line
+    6. Wrap the body at 72 characters
+    7. Use the body to explain what and why vs. how
