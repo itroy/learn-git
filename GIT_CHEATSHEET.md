@@ -25,3 +25,8 @@ For example,
 
     - Atomic commits - make commits related to one feature or task of your program.
     - Leverage atomic commits to make your commit messages useful to future collaborators.
+
+    ### Good Commit Messages
+    - Use an active voice: “Fix card generator”
+    - Avoid using vague commit messages such as “saved” or “updated”
+    - Commit early and often!
